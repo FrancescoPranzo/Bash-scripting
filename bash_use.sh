@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 
-cd /home/francesco/Scaricati
+cd /home/username/folder
 ./marktext-x86_64.AppImage

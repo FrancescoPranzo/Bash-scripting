@@ -11,5 +11,5 @@ I use this script to open automatically Mark-Text through command line. You only
 
 
 Alias example:
-alias open-marktext='. /percorso-file'
+alias open-marktext='. /file-path'
 
